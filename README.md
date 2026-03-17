@@ -4,9 +4,8 @@ This project focuses on predicting depression using Machine Learning based on me
 
 The model was trained using Python and Scikit-learn and deployed using Streamlit to create an interactive web application.
 
-## Live App
-
-https://samyukthamuthu-mental-health-analysis-and-prediction-app-tnlpvvu.streamlit.app
+Live App:
+https://samyukthamuthu-mental-health-analysis-and-prediction-app-tplwvu.streamlit.app
 
 ## Features
 
